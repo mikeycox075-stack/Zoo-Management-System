@@ -1,0 +1,17 @@
+Jelly,5,Yellow,0.8,Parrot,Molting
+Harry,23,Grey,800.6,Shark,12
+Kilty,43,Grey,700.34,Shark,13
+Susan,15,Pink,3.0,Parrot,poor
+Sally,69,Blue,300.0,Shark,15
+Red,12,Red,5.0,Parrot,Great
+Daniel,31,Blue,80.0,Tiger,2
+Susan,12,White,20.0,Tiger,15
+Dammy,12,Red,140.0,Tiger,1
+Chewy,12,Orange,400.23,Tiger,12
+Sammy,12,Red,130.0,Tiger,15
+Jerry,30,Purple,76.0,Tiger,19
+Tim,14,Red,123.3,Tiger,13
+Henry,12,Red,123.3,Tiger,14
+Timmy,19,White,70.0,Tiger,9
+d,14,Red,12.0,Tiger,12
+a,13,Red,13.0,Tiger,14
